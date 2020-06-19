@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "コンパイル",
+      "setup": "",
+      "run": "make all",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "kadai11-1の実行結果",
+      "setup": "",
+      "run": "./kadai11-1",
+      "input": "",
+      "output": "3.13333333333333\r\n3.14156862745098\r\n3.14159250245871\r\n3.14159265122482\r\n3.14159265355284\r\n3.14159265358922\r\n3.14159265358978\r\n3.14159265358979\r\n3.14159265358979",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
